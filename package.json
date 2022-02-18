@@ -1,0 +1,14 @@
+{
+  "name": "JSWORK",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wcat.js",
+  "scripts": {
+    "wcat":"node wcat.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "cli": "wcat.js"
+}
